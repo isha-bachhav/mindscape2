@@ -1,1 +1,2 @@
-# mindscape2
+# MindScape
+A mental health mood-mapping app.
